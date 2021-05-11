@@ -3,7 +3,7 @@
 Plugin Name: Genes Converter
 Description: Convert the text raw to genes result foods
 Version: 0.0.0.1
-Author: Gene
+Author: Noly Soriao
 */
 
 
