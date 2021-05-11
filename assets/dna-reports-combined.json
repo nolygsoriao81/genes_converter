@@ -1,0 +1,1675 @@
+{
+    "genotype_color": {
+      "rs17300539": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs9939609": {
+        "AA": "red",
+        "AT": "yellow",
+        "TA": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1121980": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs17782313": {
+        "CC": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs6318": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1042571": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1801131": {
+        "GG": "red",
+        "GT": "yellow",
+        "TG": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs9930506": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs838133": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs5400": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs307377": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs713598": {
+        "GG": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1726866": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1800497": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4680": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1799883": {
+        "TT": "red",
+        "TG": "yellow",
+        "GT": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1260326": {
+        "CC": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2070895": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs11558471": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2943641": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs35767": {
+        "GG": "red",
+        "GA": "yellow",
+        "AG": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1208": {
+        "GG": "red",
+        "GA": "yellow",
+        "AG": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs174550": {
+        "CC": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2237892": {
+        "CC": "red",
+        "_empty_": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs7903146": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs553668": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4457053": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4988235": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs182549": {
+        "CC": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs13119723": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs10806425": {
+        "AA": "red",
+        "AC": "yellow",
+        "CA": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs864537": {
+        "GG": "red",
+        "GA": "yellow",
+        "AG": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2187668": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs7454108": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs7775228": {
+        "CC": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4639334": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs769407": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2058725": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs3791851": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2241165": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs3749034": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs3791878": {
+        "TT": "red",
+        "TG": "yellow",
+        "GT": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs894160": {
+        "GG": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs7901695": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs12255372": {
+        "TT": "red",
+        "GT": "yellow",
+        "TG": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs12691": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs6265": {
+        "TT": "red",
+        "TC": "yellow",
+        "CT": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1800849": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs2070600": {
+        "AA": "red",
+        "AC": "yellow",
+        "CA": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs10423928": {
+        "AA": "red",
+        "AT": "yellow",
+        "TA": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1042714": {
+        "GG": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs429358": {
+        "TT": "red",
+        "_empty_": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs7412": {
+        "_empty_": "green",
+        "CT": "yellow",
+        "TC": "yellow",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4420638": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1801282": {
+        "CC": "red",
+        "CG": "yellow",
+        "GC": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs693": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs17817449": {
+        "GG": "red",
+        "TG": "yellow",
+        "GT": "yellow",
+        "TT": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1800629": {
+        "AA": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "GG": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs662799": {
+        "GG": "red",
+        "GA": "yellow",
+        "AG": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs174556": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs968567": {
+        "TT": "red",
+        "CT": "yellow",
+        "TC": "yellow",
+        "CC": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs324420": {
+        "CC": "red",
+        "CA": "yellow",
+        "AC": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs268": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs1558902": {
+        "TT": "red",
+        "AT": "yellow",
+        "TA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      },
+      "rs4315495": {
+        "GG": "red",
+        "AG": "yellow",
+        "GA": "yellow",
+        "AA": "green",
+        ".": "yellow",
+        "NotFound": "yellow"
+      }
+    },
+    "color_code": {
+      "yellow": "#fbbf3d",
+      "green": "#4d9d59",
+      "red": "#ff0000",
+      "null": "#ffffff"
+    },
+    "genotype_freq_color": {
+      "yellow": "-1",
+      "green": "-2",
+      "red": "+1",
+      "null": ""
+    },
+    "data_label": {
+      "Appetite\/ Satiety": {
+        "column_1": "Weight",
+        "column_2": "Count",
+        "column_3": "Total",
+        "column_4": "GENE",
+        "column_5": "GENOTYPE",
+        "column_6": "RISK",
+        "column_7": "NOTES",
+        "total_weight": 17
+      },
+      "Dietary Control, Snacking, and Mindful Eating": {
+        "column_1": "DC",
+        "column_2": "S",
+        "column_3": "Total",
+        "column_4": "GENE",
+        "column_5": "GENOTYPE",
+        "column_6": "RISK",
+        "column_7": "NOTES",
+        "total_dc": 21,
+        "total_s": 12
+      }
+    },
+    "data_setting": {
+      "Appetite\/ Satiety": {
+        "showGivenGeneType": false
+      },
+      "Dietary Control, Snacking, and Mindful Eating": {
+        "showGivenGeneType": true
+      }
+    },
+    "data": {
+      "Appetite\/ Satiety": [
+        {
+          "rsID": "rs17300539",
+          "gene": "ADIPOQ",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs9939609",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1121980",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs17782313",
+          "gene": "MC4R",
+          "genoType": "",
+          "risk": "C",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs6318",
+          "gene": "HTR2C",
+          "genoType": "",
+          "risk": "C",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1042571",
+          "gene": "POMC",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1801131",
+          "gene": "MTHFR 1298",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "weight",
+          "givenGeneNum": 2
+        }
+      ],
+      "Dietary Control, Snacking, and Mindful Eating": [
+        {
+          "rsID": "rs9939609",
+          "gene": "FTO(1)",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs121908635",
+          "gene": "PER2",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs17782313",
+          "gene": "MC4R",
+          "genoType": "",
+          "risk": "C",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs9930506",
+          "gene": "FTO(3)",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs838133",
+          "gene": "FGF21",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "S",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs5400",
+          "gene": "SLC2A2",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "S",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs307377",
+          "gene": "TAS1R2",
+          "genoType": "",
+          "risk": "T",
+          "notes": "",
+          "givenGeneType": "S",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs713598",
+          "gene": "TAS2R38",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "S",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs1726866",
+          "gene": "TAS2R38",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "S",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1800497",
+          "gene": "ANKK1",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 2
+        },
+        {
+          "rsID": "rs4680",
+          "gene": "COMT",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1800497",
+          "gene": "DRD2",
+          "genoType": "",
+          "risk": "A",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 1
+        },
+        {
+          "rsID": "rs1801131",
+          "gene": "MTHFR 1298",
+          "genoType": "",
+          "risk": "G",
+          "notes": "",
+          "givenGeneType": "DC",
+          "givenGeneNum": 2
+        }
+      ],
+      "Insulin Resistance": [
+        {
+          "rsID": "rs1799883",
+          "gene": "FABP2",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1260326",
+          "gene": "GCKR",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2070895",
+          "gene": "LIPC",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs11558471",
+          "gene": "SLC30A8",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2943641",
+          "gene": "IRS1",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs35767",
+          "gene": "IGF1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1208",
+          "gene": "NAT2",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs174550",
+          "gene": "FADS1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs972283",
+          "gene": "KFL14",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7923837",
+          "gene": "HHEX",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2237892",
+          "gene": "KCNq1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7903146",
+          "gene": "TCF7L2",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs553668",
+          "gene": "ADRA2A",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4457053",
+          "gene": "ZBED3",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "Lactose Intolerance": [
+        {
+          "rsID": "rs4988235",
+          "gene": "MCM6(1)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs182549",
+          "gene": "MCM6(2)",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        }
+      ],
+      "Celiac Propsensity": [
+        {
+          "rsID": "rs13119723",
+          "gene": "KIAA1109",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs10806425",
+          "gene": "BACH2",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs864537",
+          "gene": "CD247",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2187668",
+          "gene": "HLA DQ 2.5",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        }
+      ],
+      "Gluten Sensitvity": [
+        {
+          "rsID": "rs7454108",
+          "gene": "HLA DQ",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2187668",
+          "gene": "HLA DQ 2.5",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7775228",
+          "gene": "HLA DQ2.2",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4639334",
+          "gene": "HLA DQ7",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "Glutamic Acid Sensitivty": [
+        {
+          "rsID": "rs769407",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2058725",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs3791851",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2241165",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs3749034",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs3791878",
+          "gene": "GAD1",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        }
+      ],
+      "Carbohydrates": [
+        {
+          "rsID": "rs894160",
+          "gene": "PLIN1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7901695",
+          "gene": "TCF7L2(1)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs12255372",
+          "gene": "TCF7L2(2)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7903146",
+          "gene": "TCF7L2(4)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs12691",
+          "gene": "CEBPA",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs6265",
+          "gene": "BDNF",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1800849",
+          "gene": "UCP3",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2943641",
+          "gene": "IRS1",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2070600",
+          "gene": "AGER",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs9939609",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs10423928",
+          "gene": "GIPR",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1042714",
+          "gene": "ADBR2 GLU27",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "Dietary Fat": [
+        {
+          "rsID": "rs429358",
+          "gene": "APOE (1)",
+          "genoType": "",
+          "risk": "_",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7412",
+          "gene": "APOE (2)",
+          "genoType": "",
+          "risk": "_",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4420638",
+          "gene": "APOE (3)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1801282",
+          "gene": "PPARG",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1799883",
+          "gene": "FABP2",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs5082",
+          "gene": "APOA2",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs693",
+          "gene": "APOB",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs17300539",
+          "gene": "ADIPOQ",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs17817449",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs9939609",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1800629",
+          "gene": "TNF",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2070895",
+          "gene": "LIPC",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1260326",
+          "gene": "GCKR",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        }
+      ],
+      "Polyunsaturated Fats": [
+        {
+          "rsID": "rs662799",
+          "gene": "APOA5",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs6265",
+          "gene": "BDNF",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1800629",
+          "gene": "TNF",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs174556",
+          "gene": "FADS1",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs968567",
+          "gene": "FADS2",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        }
+      ],
+      "Monounsaturated Fat": [
+        {
+          "rsID": "rs324420",
+          "gene": "FAAH",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs268",
+          "gene": "LPL",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "Protein": [
+        {
+          "rsID": "rs1558902",
+          "gene": "FTO",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4315495",
+          "gene": "LPIN1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "vitaminA": [
+        {
+          "rsID": "rs6420424",
+          "gene": "PKD1L2",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs6564851",
+          "gene": "BCO1 (1)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs12934922",
+          "gene": "BCO1 (2)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7501331",
+          "gene": "BCO1 (3)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs11645428",
+          "gene": "BCO1 (4)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs10882272",
+          "gene": "RBP4",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1667255",
+          "gene": "TTN",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "vitaminB6": [
+        {
+          "rsID": "rs1697421",
+          "gene": "ALPL (1)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4654748",
+          "gene": "ALPL (2)",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1780316",
+          "gene": "ALPL (3)",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        }
+      ],
+      "vitaminB9": [
+        {
+          "rsID": "rs1801131",
+          "gene": "MTHFR1298",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1801133",
+          "gene": "MTHFR 677",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1051266",
+          "gene": "SLC19A1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1801198",
+          "gene": "TCN2",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "vitaminB12": [
+        {
+          "rsID": "rs602662",
+          "gene": "FUT2 (1)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs492602",
+          "gene": "FUT2 (2)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs281379",
+          "gene": "FUT2 (3)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs601338",
+          "gene": "FUT2 (4)",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs3760776",
+          "gene": "FUT6",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs526934",
+          "gene": "TCN1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs11254363",
+          "gene": "CUBN (1)",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs12780845",
+          "gene": "CUBN (2)",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1801133",
+          "gene": "MTHFR 677",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1805087",
+          "gene": "MTR",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1801394",
+          "gene": "MTRR",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs4680",
+          "gene": "COMT",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "vitaminC": [
+        {
+          "rsID": "rs11950646",
+          "gene": "SLC23A1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs6053005",
+          "gene": "SLC23A2 (1)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs6133175",
+          "gene": "SLC23A2 (2)",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "vitaminD": [
+        {
+          "rsID": "rs2282679",
+          "gene": "GC (1)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs17467825",
+          "gene": "GC (2)",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs10741657",
+          "gene": "CYP2R1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs10877012",
+          "gene": "CYP27B1",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        },
+        {
+          "rsID": "rs12785878",
+          "gene": "DHCR7",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs731236",
+          "gene": "VDR Taq",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2228570",
+          "gene": "VDR FOK",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "Vitamin E": [
+        {
+          "rsID": "rs1695",
+          "gene": "GSTP-!",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs11057830",
+          "gene": "SCARB1",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2108622",
+          "gene": "CYP4F2",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs7834588",
+          "gene": "NKAIN3",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs964184",
+          "gene": "ZIPR",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "vitaminK": [
+        {
+          "rsID": "rs2108622",
+          "gene": "CYP4f2",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs9934438",
+          "gene": "VKORC1",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "choline": [
+        {
+          "rsID": "rs7946",
+          "gene": "PEMT",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        }
+      ],
+      "coQ10": [
+        {
+          "rsID": "rs6535454",
+          "gene": "CoQ2",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "calcium": [
+        {
+          "rsID": "rs1801725",
+          "gene": "CASR (1)",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs17251221",
+          "gene": "CASR (2)",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs2228570",
+          "gene": "VDR FOK",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "magnesium": [
+        {
+          "rsID": "rs4072037",
+          "gene": "MUC1",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs3740393",
+          "gene": "CNNM2",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs163879",
+          "gene": "DCDC5",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        }
+      ],
+      "selenium": [
+        {
+          "rsID": "rs713041",
+          "gene": "GPX4",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs921943",
+          "gene": "DMGDH",
+          "genoType": "",
+          "risk": "T",
+          "notes": ""
+        },
+        {
+          "rsID": "rs225014",
+          "gene": "DI02",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1050450",
+          "gene": "GPX1",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ],
+      "zinc": [
+        {
+          "rsID": "rs13266634",
+          "gene": "SLC30A8",
+          "genoType": "",
+          "risk": "C",
+          "notes": ""
+        },
+        {
+          "rsID": "rs11126936",
+          "gene": "SLC30A3",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "iron": [
+        {
+          "rsID": "rs855791",
+          "gene": "TMPRSS6",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1800562",
+          "gene": "HFE",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        },
+        {
+          "rsID": "rs1799945",
+          "gene": "HFE 63D",
+          "genoType": "",
+          "risk": "G",
+          "notes": ""
+        }
+      ],
+      "iodine": [
+        {
+          "rsID": "rs1867277",
+          "gene": "FOXE1",
+          "genoType": "",
+          "risk": "A",
+          "notes": ""
+        }
+      ]
+    }
+  }

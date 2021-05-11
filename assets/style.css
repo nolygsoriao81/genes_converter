@@ -1,0 +1,102 @@
+.progress-bar-genes {
+    float: left;
+    width: 0%;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #337ab7;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}
+.progress-genes {
+    margin: initial!important;
+    height: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+div#generated-table-genes {
+    width: 100%;
+    max-width: 100%;
+}
+
+#genes_table table,
+#genes_table td,
+#genes_table th {
+    border: 1px solid black;
+    font-family: arial, verdana, sans-serif;
+    border-style: solid;
+}
+
+#genes_table table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#genes_table .tr-bg {
+    background-color: #ff1d6e;
+    color: #fff;
+}
+
+#genes_table .tr-cols {
+    height: 40px;
+}
+
+#genes_table .tr-cols-sub {
+    height: 40px;
+    border-top: #ffffff;
+}
+
+#genes_table  #th-title {
+    margin-bottom: -0px !important;
+}
+
+#genes_table  #th-subTitle {
+    margin-bottom: 0px !important;
+}
+
+#genes_table .action-plan {
+    padding-bottom: 50px;
+}
+
+#genes_table #logo {
+    padding-bottom: 10px;
+}
+
+
+#genes_table .no-js #loader {
+    display: none;
+}
+
+#genes_table  .js #loader {
+    display: block;
+    position: absolute;
+    left: 100px;
+    top: 0;
+}
+
+#genes_table .se-pre-con {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url(assets/Preloader_7.gif) center no-repeat #fff;
+}
+
+.blue-back {
+    background: #002060;
+}
+
+.color-white {
+    color: white;
+}
